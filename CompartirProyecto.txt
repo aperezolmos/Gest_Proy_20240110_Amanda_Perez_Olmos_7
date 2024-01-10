@@ -1,0 +1,4 @@
+Para compartir el proyecto con alguien en github, vamos a la pestaña Settings y en Collaborators, añadimos el correo de la persona con la que lo queremos compartir.
+Ésto le enviará una invitación para unirse al repositorio.
+
+En mi caso es que tenía la contraseña de Github apuntada en un móvil anterior y justo cambié de móvil ayer, ya lo siento.
